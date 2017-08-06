@@ -1,0 +1,21 @@
+Source: ufolib
+Section: devel
+Priority: optional
+Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
+Uploaders: Yao Wei (魏銘廷) <mwei@lxde.org>
+Build-Depends: debhelper (>=10),
+               dh-python,
+               python3-all,
+               python3-setuptools
+Standards-Version: 4.0.0
+Testsuite: autopkgtest-pkg-python
+Homepage: https://github.com/unified-font-object/ufoLib
+X-Python3-Version: >= 3.4
+
+Package: python3-ufolib
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: A low-level Unified Font Object (UFO) reader and writer
+ ufoLib reads and writes Unified Font Object (UFO) files.
+ UFO is a file format that stores fonts source files.
