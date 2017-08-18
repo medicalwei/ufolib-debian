@@ -35,9 +35,6 @@ License:   BSD-3-Clause-RoboFab
  .
  This is the BSD license:
  http://www.opensource.org/licenses/BSD-3-Clause
- .
- On Debian systems, the complete text of the BSD 3-clause "New" or "Revised"
- License can be found in `/usr/share/common-licenses/BSD'.
 
 Files:     debian/*
 Copyright: 2017- Yao Wei (魏銘廷) <mwei@lxde.org>
@@ -65,6 +62,3 @@ License:   BSD-3-Clause
  LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
  OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  SUCH DAMAGE.
- .
- On Debian systems, the complete text of the BSD 3-clause "New" or "Revised"
- License can be found in `/usr/share/common-licenses/BSD'.

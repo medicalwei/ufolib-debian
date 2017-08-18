@@ -16,6 +16,6 @@ Package: python3-ufolib
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}, ${python3:Depends}
-Description: A low-level Unified Font Object (UFO) reader and writer
+Description: Unified Font Object (UFO) reader and writer
  ufoLib reads and writes Unified Font Object (UFO) files.
  UFO is a file format that stores fonts source files.
