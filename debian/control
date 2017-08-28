@@ -11,6 +11,8 @@ Build-Depends: debhelper (>=10),
 Standards-Version: 4.1.0
 Testsuite: autopkgtest-pkg-python
 Homepage: https://github.com/unified-font-object/ufoLib
+Vcs-Git: https://anonscm.debian.org/git/pkg-fonts/ufolib.git
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-fonts/ufolib.git
 X-Python3-Version: >= 3.4
 
 Package: python3-ufolib
